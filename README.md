@@ -1,6 +1,6 @@
 # Rockets
 
-## A W.R.O. 2020 Future Enginners Team from Ioannina, GR
+## A W.R.O. 2022 Future Enginners Team from Ioannina, GR
 
 
 Files in the rep:
