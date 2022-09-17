@@ -3,7 +3,7 @@
 ## A W.R.O. 2022 Future Enginners Team from Ioannina, GR
 
 
-Files in the rep:
+Files in the repository:
 - 6 photos of the vehicle
 - 1 electromechanic diagram
 - 1 code of the first challenge
