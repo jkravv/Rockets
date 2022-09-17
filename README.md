@@ -10,3 +10,5 @@ Files in the rep:
 - 1 code of the second challenge
 
 Watch a short video of the challenge [Video](https://youtu.be/1nSl26NC-5U).
+
+[![N|Solid](https://world-robot-olympiad-association.github.io/future-engineers-gs/img/fe-map.png)](https://https://wro-association.org/)
