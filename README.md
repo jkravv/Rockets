@@ -5,6 +5,7 @@
 
 Files in the repository:
 - 6 photos of the vehicle
+- 2 team photos
 - 1 electromechanic diagram
 - 1 code of the first challenge
 - 1 code of the second challenge
